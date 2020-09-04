@@ -144,7 +144,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - (BaS-Net) **Background Suppression Networkfor Weakly-supervised Temporal Action Localization** (AAAI 2020) [paper](https://arxiv.org/abs/1911.09963) [code.PyTorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 - **Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2006.07006) [code.PyTorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 - (A2CL-PT) **Adversarial Background-Aware Loss for Weakly-supervised Temporal Activity Localization** (ECCV 2020) [paper](https://arxiv.org/abs/2007.06643) [code.PyTorch](https://github.com/MichiganCOG/A2CL-PT)
-- **Weakly Supervised Temporal Action Localization with Segment-Level Labels** (arxiv 2020)
+- **Weakly Supervised Temporal Action Localization with Segment-Level Labels** (arxiv 2020) [paper](https://arxiv.org/abs/2007.01598?context=cs.CV)
 - (ECM) **Equivalent Classification Mapping for Weakly Supervised Temporal Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2008.07728v1)
 
 ## 2019
