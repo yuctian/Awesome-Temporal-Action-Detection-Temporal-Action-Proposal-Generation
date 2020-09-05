@@ -34,7 +34,8 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 # **Papers: Temporal Action Proposal Generation**
 
 ## 2020
-
+- **Boundary-Aware Cascade Networks for Temporal Action Segmentation** (ECCV 2020)
+- **Boundary Content Graph Neural Network for Temporal Action Proposal Generation** (ECCV 2020)
 - **VALSE talk by Tianwei Lin** (2020.03.18) [link](https://pan.baidu.com/s/18uPJX3l69qJHaYOdeJ0IQw?errmsg=Auth+Login+Sucess&errno=0&ssnerror=0&) (7y8g)
 - (RapNet) **Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network** (AAAI 2020) [pre-paper 2019 ActivityNet task-1 2nd](https://arxiv.org/abs/1908.03448)
 - (DBG) **Fast Learning of Temporal Action Proposal via Dense Boundary Generator** (AAAI 2020) [paper](https://arxiv.org/abs/1911.04127) [code.TensorFlow](https://github.com/TencentYoutuResearch/ActionDetection-DBG)
@@ -73,7 +74,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 # **Papers: Temporal Action Detection**
 
 ## 2020
-
+- (CFAD)**CFAD: Coarse-to-Fine Action Detector for Spatiotemporal Action Localization** (ECCV 2020) [paper]()
+- **Bottom-Up Temporal Action Localization with Mutual Regularization** (ECCV 2020) [paper]()
+- (SF-Net)**SF-Net: Single-Frame Supervision for Temporal Action Localization** (ECCV 2020) [paper]()
 - (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (CVPR 2020) [paper](https://arxiv.org/abs/1911.11462) [code.PyTorch](https://github.com/frostinassiky/gtad) [video](https://www.youtube.com/watch?v=BlPxnDcykUo)
 - (AGCN-P-3DCNNs) **Graph Attention based Proposal 3D ConvNets for Action Detection** (AAAI 2020) [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiJ.1424.pdf)
 - (PBRNet) **Progressive Boundary Refinement Network for Temporal Action Detection** (AAAI 2020) [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuQ.4870.pdf)
@@ -144,6 +147,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - (BaS-Net) **Background Suppression Networkfor Weakly-supervised Temporal Action Localization** (AAAI 2020) [paper](https://arxiv.org/abs/1911.09963) [code.PyTorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 - **Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2006.07006) [code.PyTorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 - (A2CL-PT) **Adversarial Background-Aware Loss for Weakly-supervised Temporal Activity Localization** (ECCV 2020) [paper](https://arxiv.org/abs/2007.06643) [code.PyTorch](https://github.com/MichiganCOG/A2CL-PT)
+- **Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization** (ECCV 2020) [paper]()
 - **Weakly Supervised Temporal Action Localization with Segment-Level Labels** (arxiv 2020) [paper](https://arxiv.org/abs/2007.01598?context=cs.CV)
 - (ECM) **Equivalent Classification Mapping for Weakly Supervised Temporal Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2008.07728v1)
 
