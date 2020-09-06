@@ -139,7 +139,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 ## 2020
 
 - (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (WACV 2020) [paper](https://arxiv.org/abs/1904.07774)
-- **Weakly Supervised Temporal Action Localization Using Deep Metric Learning** (WACV 2020) [paper](https://arxiv.org/abs/2001.07793)
+- **Weakly Supervised Temporal Action Localization Using Deep Metric Learning** (WACV 2020) [paper](https://arxiv.org/abs/2001.07793) [code.PyTorch](https://github.com/asrafulashiq/wsad)
 - **Action Graphs: Weakly-supervised Action Localization with Graph Convolution Networks** (WACV 2020) [paper](https://arxiv.org/abs/2002.01449) [code.PyTorch](https://github.com/menorashid/action_graphs)
 - (DGAM) **Weakly-Supervised Action Localization by Generative Attention Modeling** (CVPR 2020) [paper](https://arxiv.org/abs/2003.12424) [code.PyTorch](https://github.com/bfshi/DGAM-Weakly-Supervised-Action-Localization)
 - (EM-MIL) **Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning** (arxiv 2020) [paper](https://arxiv.org/abs/2004.00163)
