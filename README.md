@@ -76,7 +76,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 ## 2020
 - (CFAD)**CFAD: Coarse-to-Fine Action Detector for Spatiotemporal Action Localization** (ECCV 2020) [paper]()
 - **Bottom-Up Temporal Action Localization with Mutual Regularization** (ECCV 2020) [paper]()
-- (SF-Net)**SF-Net: Single-Frame Supervision for Temporal Action Localization** (ECCV 2020) [paper]()
+- (SF-Net)**SF-Net: Single-Frame Supervision for Temporal Action Localization** (ECCV 2020) [paper](https://arxiv.org/pdf/2003.06845)
 - (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (CVPR 2020) [paper](https://arxiv.org/abs/1911.11462) [code.PyTorch](https://github.com/frostinassiky/gtad) [video](https://www.youtube.com/watch?v=BlPxnDcykUo)
 - (AGCN-P-3DCNNs) **Graph Attention based Proposal 3D ConvNets for Action Detection** (AAAI 2020) [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiJ.1424.pdf)
 - (PBRNet) **Progressive Boundary Refinement Network for Temporal Action Detection** (AAAI 2020) [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuQ.4870.pdf)
