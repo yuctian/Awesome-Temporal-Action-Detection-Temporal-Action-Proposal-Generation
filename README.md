@@ -34,7 +34,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 # **Papers: Temporal Action Proposal Generation**
 
 ## 2020
-- **Boundary-Aware Cascade Networks for Temporal Action Segmentation** (ECCV 2020)
+- **Boundary-Aware Cascade Networks for Temporal Action Segmentation**[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700035.pdf)  [code](https://github.com/MCG-NJU/BCN)(ECCV 2020)
 - **Boundary Content Graph Neural Network for Temporal Action Proposal Generation** (ECCV 2020)
 - **VALSE talk by Tianwei Lin** (2020.03.18) [link](https://pan.baidu.com/s/18uPJX3l69qJHaYOdeJ0IQw?errmsg=Auth+Login+Sucess&errno=0&ssnerror=0&) (7y8g)
 - (RapNet) **Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network** (AAAI 2020) [pre-paper 2019 ActivityNet task-1 2nd](https://arxiv.org/abs/1908.03448)
